@@ -1,0 +1,206 @@
+    1  cd banking-app
+    2  cd desktop
+    3  ~gh repo clone briansastre-ops/bankinapp~
+    4  [200~~~
+    5  git clone [200~https://github.com/briansastre-ops/bankinapp.git~
+    6  git clone https://github.com/briansastre-ops/bankinapp.git~
+    7  cd bankinapp-master
+    8  npm run dev
+    9  clear
+   10  npm run dev
+   11  clear
+   12  ecit
+   13  exit
+   14  cd desktop
+   15  cd bankianapp-master
+   16  cd Desktop
+   17  cd bankianapp-master
+   18  clear
+   19  cd bankinapp-master
+   20  npm run dev
+   21  clear
+   22  npm run dev
+   23  exit
+   24  cd desktop
+   25  git config -- local
+   26  git config --global
+   27  git config --local user.name Brian Sastre
+   28  git config --global user.name Brian Sastre
+   29  git confgi
+   30  git config
+   31  clear
+   32  clear
+   33  git config --global user.name "Brian Sastre"
+   34  git config --global --get-all user.name
+   35  git config --global --get-all user.email
+   36  git config --global --get-all user.email
+   37  git config --global --unset-all user.email
+   38  git config --global user.email "briansastre159@gmail.com"
+   39  git config --global user.email
+   40  mkdir tecnicatura-utn-sist-operativos
+   41  cd [200~
+   42  cd tecnicatura-utn-sist-operativos
+   43  git init
+   44   code.
+   45  code .
+   46  git add.
+   47  [200~git status
+   48  git status
+   49  git add .
+   50  git commit -m "Primer commit - inicializando repositorio"
+   51  git push -u origin main
+   52  git push -u origin main
+   53  git remote add origin https://github.com/tu-usuario/tecnicatura-utn-sist-operativos.git
+   54  git push -u origin main
+   55  git push -u origin master
+   56  git remote -v
+   57  git remote remove origin
+   58  git remote add origin https://github.com/briansastre-ops/tecnicatura-utn-sist-operativos.git
+   59  git remote -v
+   60  git push -u origin master
+   61  git remote add origin https://github.com/briansastre-ops/utn-sist-Operativos.git
+   62  git remote add origin https://github.com/briansastre-ops/utn-sist-Operativos.git
+   63  git remote remove origin
+   64  git remote add origin https://github.com/briansastre-ops/utn-sist-Operativos.git
+   65  git remote -v
+   66  git push -u origin master
+   67  cd Users\brian\OneDrive\Desktop\java-utn~
+   68  [200~cd /c/Users/brian/OneDrive/Desktop/java-utn
+   69  cd /c/Users/brian/OneDrive/Desktop/java-utn
+   70  mkdir java
+   71  mkdir python
+   72  mkdir js
+   73  cd java
+   74  [200~cd /c/Users/brian/OneDrive/Desktop/Tecnicatura-utn/java
+   75  cd /c/Users/brian/OneDrive/Desktop/Tecnicatura-utn/java
+   76  echo "# java-utn" >> README.md
+   77  git init
+   78  git add README.md
+   79  git commit -m "Hola mundo en java"
+   80  git branch -M main
+   81  cd /c/Users/brian/OneDrive/Desktop/Tecnicatura-utn/java
+   82  git init
+   83  git remote add origin https://github.com/briansastre-ops/UTN-2025.git
+   84  touch README.md
+   85  echo "# Proyectos UTN 2025" > README.md
+   86  git add .
+   87  [200~
+   88  cd /c/Users/brian/OneDrive/Desktop/Tecnicatura-utn
+   89  git init
+   90  echo "# Proyectos UTN 2025" > README.md
+   91  echo ".class" > .gitignore
+   92  echo "*.class" >> .gitignore
+   93  echo "*.jar" >> .gitignore
+   94  echo "*.log" >> .gitignore
+   95  git add .
+   96  git
+   97  cd "C:\Users\brian\OneDrive\Desktop\Tecnicatura-utn"
+   98  git init
+   99  git add .
+  100  git commit -m "Primer commit del proyecto Tecnicatura UTN"
+  101  git remote add origin https://github.com/briansastre-ops/Tecnicatura-utn.git
+  102  git branch -M main
+  103  git push -u origin main
+  104  clear
+  105  cd "C:\Users\brian\OneDrive\Desktop\Tecnicatura-utn"
+  106  git init
+  107  git add .
+  108  git commit -m "Estructura inicial con carpeta Tecnicatura-utn"
+  109  git remote add origin https://github.com/briansastre-ops/Tecnicatura-UTN.git
+  110  git remote remove origin
+  111  git remote add origin https://github.com/briansastre-ops/Tecnicatura-UTN.git
+  112  git branch -M main
+  113  git push -u origin main
+  114  cd Tecnicatura-utn/java
+  115  touch .gitkeep
+  116  git add .
+  117  git commit -m "Agrego .gitkeep para versionar carpeta java"
+  118  git push
+  119  git push --set-upstream origin main
+  120  git remote set-url origin https://github.com/briansastre-ops/Tecnicatura-UTN.git
+  121  git push --set-upstream origin main
+  122  git pull origin main --allow-unrelated-histories
+  123  cd "C:\Users\brian\OneDrive\Desktop\Tecnicatura-utn"
+  124  git status
+  125  git add .
+  126  git commit -m "Actualizo carpeta java con nuevos cambios"
+  127  git push
+  128  ls Tecnicatura-UTN/java
+  129  git status
+  130  $ git status
+  131  On branch main
+  132  Your branch is up to date with 'origin/main'.
+  133  nothing to commit, working tree clean
+  134  mv Tecnicatura-UTN/java ./java
+  135  mv Tecnicatura-UTN/java ./java
+  136  ls
+  137  ls Tecnicatura-UTN
+  138  mv java Tecnicatura-UTN/
+  139  ls Tecnicatura-UTN
+  140  git add Tecnicatura-UTN/
+  141  git commit -m "Reorganizo estructura: muevo java dentro de Tecnicatura-UTN"
+  142  git push
+  143  echo "# Tecnicatura UTN 👨‍💻
+  144  Este repositorio contiene ejercicios y proyectos realizados durante la Tecnicatura Universitaria en Programación (UTN - San Rafael).
+  145  ## Estructura del proyecto
+  146  - **Tecnicatura-UTN/java**: Ejercicios en Java
+  147  - **Tecnicatura-UTN/js**: Proyectos en JavaScript
+  148  - **Tecnicatura-UTN/python**: Programas en Python
+  149  ## Autor
+  150  Brian Sastre
+  151  " > README.md
+  152  git add README.md
+  153  git commit -m "Agrego README.md con descripción del repo"
+  154  git push
+  155  ls Tecnicatura-UTN/java
+  156  mv HolaMundo.java Tecnicatura-UTN/java/
+  157  find . -name HolaMundo.java
+  158  git add Tecnicatura-UTN/java/HolaMundo.java
+  159  git rm --cached Tecnicatura-UTN/java
+  160  rm -rf .git/modules/Tecnicatura-UTN/java
+  161  git add Tecnicatura-UTN/java
+  162  git commit -m "Corrijo: elimino submódulo y agrego carpeta java como parte del repo"
+  163  git push
+  164  git rm --cached Tecnicatura-UTN/java
+  165  rm -rf Tecnicatura-UTN/java/.git
+  166  rm -rf .git/modules/Tecnicatura-UTN/java
+  167  git add Tecnicatura-UTN/java
+  168  git commit -m "Corrijo submódulo: agrego carpeta java como parte normal del repo"
+  169  git push
+  170  cd C:\Users\brian\OneDrive\Desktop\Tecnicatura-utn\Tecnicatura-UTN~
+  171  cd "/c/Users/brian/OneDrive/Desktop/Tecnicatura-utn/Tecnicatura-UTN"
+  172  for file in $(git ls-files -o --exclude-standard); do   git add "$file";   git commit -m "Agrego $file"; done
+  173  cd "/c/Users/brian/OneDrive/Desktop/Tecnicatura-utn/Tecnicatura-UTN"
+  174  git rm --cached -r __pycache__
+  175  IFS=$'\n'
+  176  for file in $(git ls-files -o --exclude-standard); do   git add "$file";   git commit -m "Agrego $file"; done
+  177  unset IFS
+  178  [200~cd "/c/Users/brian/OneDrive/Desktop/Tecnicatura-utn/Tecnicatura"
+  179  cd "/c/Users/brian/OneDrive/Desktop/Tecnicatura-utn/Tecnicatura"
+  180  git status
+  181  [200~git add .
+  182  git add .
+  183  [200~for file in $(git diff --cached --name-only); do
+  184  for file in $(git diff --cached --name-only); do   git commit -m "Agrego $file" -- "$file"; done
+  185  cd "/c/Users/brian/OneDrive/Desktop/Tecnicatura-utn"
+  186  git rm -r Tecnicatura-UTN
+  187  git commit -m "Elimine carpeta Tecnicatura UTN por errores al subir los ejercicios"
+  188  git push origin main
+  189  git rm --cached README.md
+  190  git rm --cached readme.md
+  191  git rm --cached Tecnicatura/Git/readme.md
+  192  git commit -m "Dejar de rastrear Tecnicatura/Git/readme.md"
+  193  mkdir pyhthon-final
+  194  cd python-final
+  195  clear
+  196  mkdir python-final
+  197  cd python-final
+  198  git init
+  199  touch finales.py
+  200  code .
+  201  code .
+  202  history
+  203  cd C:\Users\brian\OneDrive\Desktop\python-final~
+  204  clear
+  205  cd /c/Users/brian/OneDrive/Desktop/python-final
+  206  history > historial.txt
